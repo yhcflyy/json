@@ -2,42 +2,42 @@
 	"currServerDate": 1548059858000,
 	"data": [{
 			"canFixClock": true,
-			"day": 1545926400000,
+			"day": 1547805443000,
 			"id": 0,
 			"status": 0,
 			"study": true
 		},
 		{
 			"canFixClock": true,
-			"day": 1546012800000,
+			"day": 1547891843000,
 			"id": 0,
 			"status": 0,
 			"study": true
 		},
 		{
 			"canFixClock": true,
-			"day": 1546099200000,
+			"day": 1547978243000,
 			"id": 0,
 			"status": 1,
 			"study": true
 		},
 		{
 			"canFixClock": true,
-			"day": 1546185600000,
+			"day": 1548064643000,
 			"id": 0,
 			"status": 0,
 			"study": true
 		},
 		{
 			"canFixClock": true,
-			"day": 1546272000000,
+			"day": 1548151043000,
 			"id": 0,
 			"status": 1,
 			"study": true
 		},
 		{
 			"canFixClock": true,
-			"day": 1546358400000,
+			"day": 1548237443000,
 			"id": 0,
 			"status": 0,
 			"study": true
