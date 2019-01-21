@@ -1,0 +1,49 @@
+{
+	"currServerDate": 1548059858000,
+	"data": [{
+			"canFixClock": true,
+			"day": 1545926400000,
+			"id": 0,
+			"status": 0,
+			"study": true
+		},
+		{
+			"canFixClock": true,
+			"day": 1546012800000,
+			"id": 0,
+			"status": 0,
+			"study": true
+		},
+		{
+			"canFixClock": true,
+			"day": 1546099200000,
+			"id": 0,
+			"status": 1,
+			"study": true
+		},
+		{
+			"canFixClock": true,
+			"day": 1546185600000,
+			"id": 0,
+			"status": 0,
+			"study": true
+		},
+		{
+			"canFixClock": true,
+			"day": 1546272000000,
+			"id": 0,
+			"status": 1,
+			"study": true
+		},
+		{
+			"canFixClock": true,
+			"day": 1546358400000,
+			"id": 0,
+			"status": 0,
+			"study": true
+		}
+	],
+	"logMessageId": "string",
+	"m": "string",
+	"s": 0
+}
