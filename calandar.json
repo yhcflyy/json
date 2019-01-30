@@ -1,11 +1,11 @@
 {
 	"currServerDate": 1548059858000,
 	"data": [{
-			"canFixClock": true,
+			"canFixClock": 0,
 			"day": 1547978243000,
 			"id": 0,
 			"status": 1,
-			"study": true
+			"canStudy": 0
 		},
 		{
 			"canFixClock": true,
