@@ -1,7 +1,7 @@
 {
 	"currServerDate": "2019-01-25T07:24:21.302Z",
 	"data": [{
-			"canLike": 0,
+			"canLike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -13,7 +13,7 @@
 			"todayId" : 1
 		},
 		{
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -24,7 +24,7 @@
 			"customerId" : 2,
 			"todayId" : 2
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -35,7 +35,7 @@
 			"customerId" : 3,
 			"todayId" : 3
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -46,7 +46,7 @@
 			"customerId" : 4,
 			"todayId" : 4
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -57,7 +57,7 @@
 			"customerId" : 5,
 			"todayId" : 5
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -68,7 +68,7 @@
 			"customerId" : 6,
 			"todayId" : 6
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -79,7 +79,7 @@
 			"customerId" : 7,
 			"todayId" : 7
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -90,7 +90,7 @@
 			"customerId" : 8,
 			"todayId" : 8
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -101,7 +101,7 @@
 			"customerId" : 9,
 			"todayId" : 9
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -112,7 +112,7 @@
 			"customerId" : 8,
 			"todayId" : 8
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -123,7 +123,7 @@
 			"customerId" : 9,
 			"todayId" : 9
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -134,7 +134,7 @@
 			"customerId" : 10,
 			"todayId" : 10
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
@@ -145,7 +145,7 @@
 			"customerId" : 11,
 			"todayId" : 11
 		}, {
-			"canlike": 0,
+			"canlike": 1,
 			"createDate": 1548401944000,
 			"duration": 10222,
 			"headImg": "http://f.hiphotos.baidu.com/image/h%3D300/sign=5c472af2bc3533faeab6952e98d2fdca/9f510fb30f2442a79cac5e59dc43ad4bd01302af.jpg",
